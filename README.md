@@ -1,2 +1,2 @@
 # AndroidCodelabs
-Every Sunday i wiil do a codelab to improve Android Development Skills
+Every Sunday i wiil do a codelab to improve my Android Development Skills
