@@ -1,1 +1,1 @@
-
+In this codelab, you start with a sample app that already displays a list of GitHub repositories. Whenever the user scrolls to the end of the displayed list, a new network request is triggered and its result is displayed on the screen.
