@@ -1,0 +1,1 @@
+# With the release of Google Play services 7.8 we're excited to announce that we've added new Mobile Vision APIs which provide bar code detection APIs that read and decode a myriad of different bar code types, quickly, easily and locally.
